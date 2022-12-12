@@ -21,4 +21,4 @@
 
 # Cada botón puede ser un color o cambio de turno de ese color, el -1 para robar una carta de la baraja
 
-![carpetas iniciales](img/2.png)
+![carpetas iniciales](img/2.jpg)
