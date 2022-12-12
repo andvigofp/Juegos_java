@@ -16,3 +16,5 @@
 4. Prohibido: es una carta que se identifica fácilmente porque contiene la señal de prohibido. Permite saltar un turno del próximo rival, prohibiéndole echar una carta y pasando el turno al jugador siguiente.
 5. Cambio de color: permite elegir color, siendo especialmente beneficiosa cuando te tocan varias cartas del mismo color. En cambio, para los otros jugadores es negativa porque no disponen de otras opciones de color.
 6 .Intercambio: es otra de las cartas de colores que necesita ser del mismo tipo o tener el mismo color que las presentes en la mesa para poder echarla.
+
+![carpetas iniciales](img/1.jpg)
