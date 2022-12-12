@@ -6,6 +6,7 @@
 4. Si un jugador no puede poner carta en su turno porque no tiene una que se ajuste al color o al tipo que hay encima de la mesa, debe coger de la baraja una nueva carta.
 5. Cuando, en algún momento de la partida, le quede una sola carta entre manos, tendrá que gritar UNO e intentar quitársela de encima cuanto antes, sin verse obligado a coger otra de la baraja en el siguiente turno. Si lo consigue, gana la ronda de juego.
 6. El jugador que se quede con una carta y se olvide de gritar UNO antes de que el siguiente rival juegue en su turno, queda penalizado teniendo que robar otra carta de la baraja.
+7. Se puede jugar hasta 4 Jugadores
 
 # Tipos de cartas especiales en el UNO
 # Entre las reglas del UNO, hay cartas especiales con las que se agregan una función especial en la dinámica de juego. Los tipos de cartas especiales en el UNO son las siguientes:
@@ -22,3 +23,5 @@
 # Cada botón puede ser un color o cambio de turno de ese color, el -1 para robar una carta de la baraja
 
 ![carpetas iniciales](img/2.jpg)
+
+# El juego se termina cuando un jugador no le quede ninguna carta 
