@@ -18,3 +18,7 @@
 6 .Intercambio: es otra de las cartas de colores que necesita ser del mismo tipo o tener el mismo color que las presentes en la mesa para poder echarla.
 
 ![carpetas iniciales](img/1.jpg)
+
+# Cada botón puede ser un color o cambio de turno de ese color, el -1 para robar una carta de la baraja
+
+![carpetas iniciales](img/2.png)
